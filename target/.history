@@ -1,0 +1,6 @@
+set scalaVersion := "2.11.5"
+set name := "dev_env"
+set version := "1.0"
+session save
+exit;
+exit
